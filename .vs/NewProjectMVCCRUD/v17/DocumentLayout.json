@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|d:\\backendvisualstudioprojects\\newprojectmvccrud\\newprojectmvccrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|solutionrelative:newprojectmvccrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|d:\\backendvisualstudioprojects\\newprojectmvccrud\\newprojectmvccrud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|solutionrelative:newprojectmvccrud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|d:\\backendvisualstudioprojects\\newprojectmvccrud\\newprojectmvccrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|solutionrelative:newprojectmvccrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|d:\\backendvisualstudioprojects\\newprojectmvccrud\\newprojectmvccrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593EE018-3A18-439A-B06F-E904424E5DC8}|NewProjectMVCCRUD\\NewProjectMVCCRUD.csproj|solutionrelative:newprojectmvccrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "NewProjectMVCCRUD\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "NewProjectMVCCRUD\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T11:30:21.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Web.config",
+              "RelativeDocumentMoniker": "NewProjectMVCCRUD\\Web.config",
+              "ToolTip": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Web.config",
+              "RelativeToolTip": "NewProjectMVCCRUD\\Web.config",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEQAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-13T11:04:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "NewProjectMVCCRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "NewProjectMVCCRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T11:04:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "NewProjectMVCCRUD\\Models\\Employee.cs",
+              "ToolTip": "D:\\BackendVisualStudioProjects\\NewProjectMVCCRUD\\NewProjectMVCCRUD\\Models\\Employee.cs",
+              "RelativeToolTip": "NewProjectMVCCRUD\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T10:58:43.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

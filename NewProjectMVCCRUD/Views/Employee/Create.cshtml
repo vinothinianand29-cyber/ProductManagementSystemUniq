@@ -1,0 +1,48 @@
+﻿@model Employee
+
+@using (Html.BeginForm())
+{
+    <label>Name</label>
+    @Html.TextBoxFor(m => m.Name)
+
+    <br />
+    <br />
+
+    <label>Age</label>
+    @Html.TextBoxFor(m => m.Age)
+
+    <br />
+    <br />
+
+    <label>Gender</label>
+
+    @Html.RadioButtonFor(m => m.Gender, "Male") Male
+
+@Html.RadioButtonFor(m => m.Gender, "Female") Female
+
+<br />
+<br />
+
+<label>City</label>
+
+@Html.DropDownListFor(m => m.City,
+    new List<SelectListItem>
+    {
+        new SelectListItem { Text="Chennai", Value="Chennai"},
+        new SelectListItem { Text="Madurai", Value="Madurai"},
+        new SelectListItem { Text="Salem", Value="Salem"}
+    },
+    "Select City")
+
+<br />
+<br />
+
+<label>Active</label>
+
+@Html.CheckBoxFor(m => m.IsActive)
+
+<br />
+<br />
+
+<input type="submit" value="Save" />
+}
